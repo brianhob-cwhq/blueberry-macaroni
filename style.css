@@ -7,3 +7,15 @@ img{
 body{
     background-color:beige;
 }
+
+.flavors {
+    text-align: center;
+}
+.flavor {
+    display: inline-block;
+    background: white;
+    border-radius: 20px;
+    margin: 20px;
+    width: 20%;
+    height: 100px;
+}
